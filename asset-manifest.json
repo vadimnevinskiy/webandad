@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/webandad/static/css/main.75df4973.chunk.css",
-    "main.js": "/webandad/static/js/main.6068ad1b.chunk.js",
-    "main.js.map": "/webandad/static/js/main.6068ad1b.chunk.js.map",
+    "main.js": "/webandad/static/js/main.409513e6.chunk.js",
+    "main.js.map": "/webandad/static/js/main.409513e6.chunk.js.map",
     "runtime-main.js": "/webandad/static/js/runtime-main.0255b35e.js",
     "runtime-main.js.map": "/webandad/static/js/runtime-main.0255b35e.js.map",
     "static/css/2.b0300f7a.chunk.css": "/webandad/static/css/2.b0300f7a.chunk.css",
@@ -26,6 +26,6 @@
     "static/css/2.b0300f7a.chunk.css",
     "static/js/2.93aa2b21.chunk.js",
     "static/css/main.75df4973.chunk.css",
-    "static/js/main.6068ad1b.chunk.js"
+    "static/js/main.409513e6.chunk.js"
   ]
 }
